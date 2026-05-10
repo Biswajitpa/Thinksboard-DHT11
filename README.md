@@ -82,8 +82,15 @@
 
 ## 🧾 Sample Data Format
 
-```json
+json
 {
   "temperature": 28.5,
   "humidity": 65
 }
+
+💡 Applications
+- 🏠 Smart Home Monitoring
+- 🌾 Smart Agriculture
+- 🏭 Industrial Monitoring
+- 🌦️ Weather Station
+- 🏫 IoT Learning Project
