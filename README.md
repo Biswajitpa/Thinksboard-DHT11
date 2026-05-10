@@ -106,9 +106,8 @@ json
 ## 📷 Project Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Biswajitpa/esp32-iot-project/main/assets/dashboard.png" width="600" alt="Project Dashboard"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=220&section=header&text=ESP32%20%2B%20DHT11%20IoT%20Project&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
 ## 🧑‍💻 Author
 - 👤 Biswajit Pattanaik
 - 🎓 Embedded Systems & IoT Developer
