@@ -103,9 +103,11 @@ json
 - Configure WiFi & ThingsBoard token
 - Upload code to ESP32
 - Open dashboard and monitor live data
+## 📷 Project Preview
 
-##  📷 Project Preview
-<p align="center"> <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/dashboard.png" width="600"/> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Biswajitpa/esp32-iot-project/main/assets/dashboard.png" width="600" alt="Project Dashboard"/>
+</p>
 
 ## 🧑‍💻 Author
 - 👤 Biswajit Pattanaik
