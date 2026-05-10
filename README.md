@@ -1,7 +1,7 @@
 # 🌐 ESP32 + DHT11 + ThingsBoard Cloud IoT Monitoring System
 
 <p align="center">
-  <img src="https://github.com/Biswajitpa/esp32-iot-project/blob/main/assets/iot-logo.png?raw=true" width="180" alt="IoT Logo"/>
+  <img src="https://raw.githubusercontent.com/Biswajitpa/esp32-iot-project/main/assets/iot-logo.png" width="180" alt="IoT Logo"/>
 </p>
 
 ---
