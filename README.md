@@ -1,7 +1,7 @@
 # 🌐 ESP32 + DHT11 + ThingsBoard Cloud IoT Monitoring System
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c6ff&height=200&section=header&text=ESP32%20IoT%20Project&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=220&section=header&text=ThingsBoard%20IoT%20Monitoring&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ## 🚀 Project Overview
