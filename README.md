@@ -94,3 +94,32 @@ json
 - 🏭 Industrial Monitoring
 - 🌦️ Weather Station
 - 🏫 IoT Learning Project
+
+## 🛠️ Setup Steps
+- Clone repository
+- git clone https://github.com/your-username/esp32-dht11-thingsboard.git
+- Install libraries
+- WiFi.h
+- ThingsBoard.h
+- DHT sensor library
+- Configure WiFi & ThingsBoard token
+- Upload code to ESP32
+- Open dashboard and monitor live data
+
+##  📷 Project Preview
+<p align="center"> <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/dashboard.png" width="600"/> </p>
+
+## 🧑‍💻 Author
+- 👤 Biswajit Pattanaik
+- 🎓 Embedded Systems & IoT Developer
+- 📍 ESP32 | IoT | VLSI | AIoT
+ ## ⭐ Future Improvements
+- 📡 Multiple sensor integration
+- 📱 Mobile app support
+- 🤖 AI prediction model
+- 🔋 Battery-powered device
+- 🌍 GPS tracking system
+##  🏁 Conclusion
+- Real-time IoT cloud monitoring system
+- Combines hardware + cloud + analytics
+- Scalable for industrial and research use
